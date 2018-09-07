@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="planet_imageView" type="id" />
+    <item name="planet_title_textView" type="id" />
+    <item name="planet_diameter" type="id" />
+    <item name="planet_status" type="id" />
+</resources>
